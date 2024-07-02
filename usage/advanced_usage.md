@@ -44,8 +44,8 @@ nmap --script=http-title,ftp-anon 192.168.1.1
 ```
 
 ## Script Categories
-auth: Authentication-related scripts.
-broadcast: Scripts that discover hosts by sending broadcast packets.
+- `-sS`auth: Authentication-related scripts.
+- `-sS`broadcast: Scripts that discover hosts by sending broadcast packets.
 brute: Brute force attack scripts.
 default: Default scripts run when using the -sC option.
 discovery: Scripts for host discovery.
