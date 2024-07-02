@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 # Script to scan a network
 
